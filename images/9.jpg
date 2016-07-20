@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="google-site-verification" content="4zcIJTHN2ODvJZZARi0H8nqNDAgKPktLCuSGFcsXwIs" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Google Code</title>
+  <link href="css/codesite.pack.04102009.css" type="text/css" rel="stylesheet">
+
+<style type="text/css">
+body {
+  font-family: Arial;
+}
+
+p {
+  font-size: 13px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+hr {
+  size: 1px;
+  color: #eee;
+}
+
+.container {
+  width: 100%;
+  padding-left: 20px;
+}
+
+.gd-section {
+  float: left;
+  width: 470px;
+  padding-right: 30px;
+  padding-top: 12px;
+}
+
+.ph-section {
+  float: left;
+  width: 470px;
+  padding-left: 30px;
+  border-left: 1px solid #666;
+}
+
+.new-project {
+  float: left;
+  width: 180px;
+}
+
+.learn-more {
+  float: left;
+  width: 250px;
+}
+
+.devsite-link {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.ph-title {
+  margin-bottom: 7px;
+}
+
+.ph-header h2 {
+  margin: 0 2em 0 5em;
+}
+
+.ph-header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+}
+.ph-header li {
+  margin: 0;
+  padding: 0;
+}
+
+.ph-header img {
+  float: left;
+  padding: 0 1em 0 0;
+  margin: 0;
+}
+.ph-header li p {
+  margin: 0 2em 0 7em;
+}
+
+td {
+  font-size: 13px;
+}
+</style>
+
+</head>
+
+<body>
+
+<!-- Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+var cookiePath = '/';
+_gaq.push(
+    ['siteTracker._setAccount', 'UA-18071-1'],
+    ['siteTracker._setDomainName', 'code.google.com'],
+    ['siteTracker._trackPageview']
+);
+(function() {
+  var ga = document.createElement('script');
+  ga.type = 'text/javascript';
+  ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  (document.getElementsByTagName('head')[0] ||
+   document.getElementsByTagName('body')[0]).appendChild(ga);
+ })();
+</script>
+
+<div id="gc-container" style="width: 1020px;">
+
+<br /><br />
+
+<div class="container">
+  <div class="gd-section">
+    <img src="images/gd-logo.png" alt="">
+    <h2>Looking for Google APIs and Tools?</h2>
+    <p>Google Developers is now the place to find all Google developer documentation, resources, events, and products.</p>
+    <p class="devsite-link"><a href="https://developers.google.com">developers.google.com</a></p>
+  </div><!-- end gd-section -->
+  <div class="ph-section">
+    <div class="ph-header">
+      <ul>
+        <li>
+          <img src="images/ph-logo.png" align="">
+          <h2 class="ph-title">Project Hosting</h2>
+          <p>Google Code Project Hosting offered a free collaborative development environment for open source projects.</p>
+          <p>In 2016 the service was shut down, see
+            <a href="http://google-opensource.blogspot.com/2015/03/farewell-to-google-code.html">this post</a>
+             for more info. Projects hosted on Google Code remain available
+             in the <a href="https://code.google.com/archive">Google Code Archive</a>.
+          </p>
+        </li>
+      </ul>
+    </div><!-- end ph-header -->
+  </div><!-- end ph-section -->
+
+  <div id="gc-footer" dir="ltr">
+    <div class="text">
+      ©<a href="http://www.google.com/">Google</a> -
+      <a href="https://developers.google.com/">Google Developers</a> -
+      <a href="http://www.google.com/accounts/TOS">Terms of Service</a> -
+      <a href="http://www.google.com/intl/en/policies/privacy/">Privacy Policy</a>
+    </div>
+  </div><!-- end gc-footer -->
+
+</div><!-- end gc-container -->
+</body>
+</html>
